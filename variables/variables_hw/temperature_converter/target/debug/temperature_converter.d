@@ -1,0 +1,1 @@
+/Users/apple/projects/rust_book/variables/variables_hw/temperature_converter/target/debug/temperature_converter: /Users/apple/projects/rust_book/variables/variables_hw/temperature_converter/src/main.rs
