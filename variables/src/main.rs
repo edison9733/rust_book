@@ -1,17 +1,5 @@
 fn main() {
-    // addition
-    let _sum = 5 + 10;
+    let _t = true;
 
-    // subtraction
-    let _difference = 95.5 - 4.3;
-
-    // multiplication
-    let _product = 4 * 30;
-
-    // division
-    let _quotient = 56.7 / 32.2;
-    let _truncated = -5 / 3; // Results in -1
-
-    // remainder
-    let _remainder = 43 % 5;
+    let _f: bool = false; // with explicit type annotation
 }
